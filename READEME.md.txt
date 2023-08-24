@@ -1,0 +1,69 @@
+{
+    "superuser": {
+        "username": "postgres",
+        "password": "superuser",
+        "Token": "77366e72198286f54d05d565cb09c674e6026db3"
+    }
+}
+_____________________________________________________________________________________
+{    
+    "Manager": {
+        "username": "Hadi",
+        "password": "hadi1234",
+        "Token": "a1e1562c0f589c991a9a2e3acc057482b9e86ab1"
+    }
+} 
+_____________________________________________________________________________________
+{ 
+   "Delivery Crew": {
+        "user_1": {
+	    "id"       : 3
+            "username": "Fadi",
+            "password": "fadi1234",
+            "Token": "28469e2be4c1322093e26f4fae46a6c1f5135579"
+        },
+        "user_2": {
+	    "id"       : 7
+            "username": "Tom",
+            "password": "tom12345",
+            "Token": "91e6f7b6576cb14088fc3dfcdc3b17c4fba63e7d"
+        }
+    }
+
+}
+___________________________________________________________________________________
+{
+    "customer": {
+	"user_1":{
+           "username": "Amjad",
+           "password": "customer1234",
+           "Token": "db613a792438bee05a3eaf05681b935188177970"
+	},
+	"user_2":{ 
+	    "username": "John",
+            "password": "user1234",
+            "Token": "cc77fa8560cfd405735f4a78c1f991890173fc51"
+	},
+	"user_3":{
+	   "username":"Alex",
+	   "password":"customer1234",
+	   "Token": "2033e0b6baea58647efd01cf7cda60fc7fd518aa"
+	}		
+	
+    }
+}
+____________________________________________________________________________________
+{
+    "random_user": {
+        
+        "user_1": {
+            "username": "Jimmy",
+            "password": "jim12345"
+        },
+	"user_2":{
+	   "username" : "Samuel",
+	   "password": "sam1234hola",
+           "Token" : "224f259d64334ef20ea00ac1850b7ea425cf6aaf"
+	}
+    }
+}

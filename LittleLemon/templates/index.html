@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LittleLemonAPI Project</title>
+    <style>
+        body {
+    background-color: #1a1a1a; /* Dark background */
+    color: #e0e0e0; /* Light text color */
+    font-family: 'Arial', sans-serif; /* Using Arial, but you can use other fonts like 'Roboto', 'Helvetica', etc. */
+    padding: 40px; /* Some padding to keep the text from the edges */
+    height: 100vh; /* Full viewport height */
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+h1 {
+    font-size: 2.5em;
+    margin-bottom: 20px; /* Gap below the title */
+    color: #f0c674; /* Goldish color to make the title stand out */
+}
+
+p {
+    font-size: 1.2em; /* A bit larger than default to make it readable */
+    margin-bottom: 20px; /* Gap between paragraphs */
+    max-width: 800px; /* Limit the width for readability */
+    line-height: 1.5;
+}
+
+span.highlight {
+    /* Instead of using a background color, I'll give it a text-decoration underline */
+    text-decoration: underline;
+    /* Color remains the same for consistency */
+    color: #f0c674;
+    font-weight: bold;
+}
+
+span.highlight-soft {
+    /* A dotted underline for the soft highlight */
+    
+    /* A more subdued color for the text */
+    color: #00ff11;
+    font-weight: normal;
+}
+
+
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <h1>Welcome to my LittleLemonAPI project.</h1>
+        <p>You may find additional files,folders and configurations in my project. An example of this includes the <span class="highlight">scripts</span> folder, as I utilized the <span class="highlight">django-extensions</span> package to populate the <span class="highlight">menu-item</span> table directly from a CSV file.</p>
+        <p>Another example is some additional code to my <span class="highlight">models.py</span>  so that the <span class="highlight-soft">total</span> field for each order and the <span class="highlight-soft">price</span> field in carts are calculated based on the <span class="highlight-soft"> price </span> field provided first in the <span class="highlight">MenuItem</span>  table and the quantity demanded for each menu item in the cart.</p>
+        <p>I also played around in <span class="highlight">admins.py</span>  to customize the look and options of <span class="highlight">User</span> and <span class="highlight">MenuItem</span> models in the admin control panel so that nobody can adjust the date of last login or the date of first login , and menu items in the <span class="highlight">MenuItem</span> model are now ordered by price and could be searched for using their titles.</p>
+        <p><span style="color: red;">Please note</span> that this isn't my first submission. I passed the assignment about 6 months ago and my code was much simpler back then. This time, I aim to achieve a higher grade and compare myself with the only one I should compare myself to an <span color="Red"> <italic > "older" me </italic> </span>.</p>
+        <p>For details on tokens,usernames and thier roles, please refer to the <span class="highlight">README.md</span> file.</p>
+        <p>Good luck to all of us!!</p>
+    </div>
+</body>
+
+</html>
+

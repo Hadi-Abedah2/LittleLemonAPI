@@ -1,0 +1,45 @@
+title,featured,price,category
+Spaghetti,True,10.99,Main
+Chicken Parmesan,True,13.49,Main
+Steak,False,19.99,Main
+Pork Chops,False,14.99,Main
+Seafood Pasta,True,18.49,Main
+Lamb Curry,False,16.99,Main
+Fish and Chips,True,15.49,Main
+Hamburger,True,8.99,Main
+Cheeseburger,True,9.49,Main
+Veggie Burger,False,8.99,Main
+Chicken Sandwich,False,9.99,Main
+Vegan Salad,True,7.49,Main
+BBQ Ribs,True,18.99,Main
+Lasagna,False,12.49,Main
+Vegetable Stir Fry,True,10.99,Main
+Pizza,False,8.49,Main
+Grilled Salmon,True,17.99,Main
+Lobster Roll,False,20.99,Main
+Bruschetta,True,5.99,Appetizers
+Stuffed Mushrooms,True,6.49,Appetizers
+Chicken Wings,False,7.99,Appetizers
+Mozzarella Sticks,True,6.99,Appetizers
+Nachos,True,7.49,Appetizers
+Spring Rolls,False,5.49,Appetizers
+Shrimp Cocktail,True,8.99,Appetizers
+Garlic Bread,False,4.49,Appetizers
+Potato Skins,True,6.99,Appetizers
+Dumplings,False,7.99,Appetizers
+Calamari,True,8.49,Appetizers
+Quesadilla,False,7.49,Appetizers
+Chocolate Cake,True,6.49,Desserts
+Cheesecake,True,6.99,Desserts
+Ice Cream Sundae,False,5.49,Desserts
+Brownie a la Mode,True,6.99,Desserts
+Tiramisu,True,6.79,Desserts
+Pudding,False,4.99,Desserts
+Fruit Tart,True,5.99,Desserts
+Cupcake,False,3.99,Desserts
+Gelato,True,5.49,Desserts
+Creme Brulee,False,6.99,Desserts
+Pancake Stack,True,5.99,Desserts
+Muffin,False,3.99,Desserts
+Donuts,True,4.49,Desserts
+Cookies,False,3.49,Desserts
